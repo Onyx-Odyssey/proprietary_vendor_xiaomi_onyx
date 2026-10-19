@@ -1,0 +1,2 @@
+# proprietary_vendor_xiaomi_onyx
+https://gitlab.com/sachinbarange86/proprietary_vendor_xiaomi_onyx
